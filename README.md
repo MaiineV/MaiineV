@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I’m Ignacio (MaiineV) 👋
 
-<!--
-**MaiineV/MaiineV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Game Designer, Game Developer and Full-Stack Developer** · **Portfolio:** [Portfolio Site](https://maiinev.github.io/Portfolio/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Short intro about your interests, focus areas, or what you’re currently learning.
+
+---
+
+## Featured Projects
+- **Project Name** – A fun one-line description + link.
+- **Another Project** – Same here—clear and concise.
+
+---
+
+## Tech Stack
+Use icons for visual impact:
+![Unity](https://path-to-icon) ![C#](https://path-to-icon) … 
+
+---
+
+## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=MaiineV&show_icons=true)
+![Streak](https://streak-stats.demolab.com?user=MaiineV)
+
+---
+
+## Where to Find Me
+[Portfolio Site](https://maiinev.github.io/Portfolio/) • [LinkedIn] • [Email]
