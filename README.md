@@ -1,9 +1,10 @@
 # 💫About Me :
-Im working on two main indie project, one is sawi and the other one is waxy
-Im locking for job right now
-Im a Game Designer, Game Developer and FullStack developer
-I have knowledge on Unity, C#, Unreal, C++, Godot y GDScript
-On the FullStack html, css, scss,js, react, python, vue, flask, C#, .Net, DB, SQL
+I’m a **Game Designer**, **Game Developer**, and **Full-Stack Developer**, currently working on two indie projects:
+
+- **Sawi** — a 2D platformer made in Godot and showcased at *Gamescom Latam Brazil*. :contentReference[oaicite:1]{index=1}  
+- **Waxy** — a 3D platformer selected for the MPVP program (Mi Primer Videojuego Presentado) from ADVA.
+
+Based in Argentina and open to **remote opportunities**, I’m actively seeking roles in game design, game development, or full-stack development.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/agustin-martinezb/) 
